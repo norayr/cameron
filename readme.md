@@ -25,6 +25,6 @@ when the program is configured (the config file is stored in the simple text fil
 
 **customize**
 
-most probably you need to find out ID's and names for the work types you have in your web application and modify ITCatArray accordingly.
+most probably you need to find out ID's and names for the work types you have in your web application and modify unit1.ITCatArray accordingly.
 
 take care.
