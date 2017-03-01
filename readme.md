@@ -1,11 +1,11 @@
 cameron
 ========
 
-this program is sort of life hack, which automates routine task of filling out working hours weekly in the BMCSoftware BMC IT Business Management web application. 
+this program is sort of life hack, which automates routine task of filling out working hours timecards weekly in the BMCSoftware BMC IT Business Management web application. 
 
 it's called Cameron, because Allison Cameron used to do paper work for House.
 
-So this software does paper work for those who must fill out their working hours weekly.
+let the Cameron to fill timecards for you. you have real work to do. (:
 
 **compile**
 
